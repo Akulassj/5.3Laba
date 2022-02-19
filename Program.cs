@@ -1,4 +1,5 @@
 int x = 3;
 int y = 4;
-Console.WriteLine(x+y);
+int z = x + y;
+Console.WriteLine(z);
 Console.ReadKey();
